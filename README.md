@@ -162,11 +162,10 @@ En activant le mode **Trellis**, on obtient une vue comparative de chaque status
 
 Cette IP utilise le site comme un client normal tout en sondant discrètement des fichiers sensibles en parallèle. C'est le profil d'un attaquant qui **tente de se fondre dans le trafic légitime** pour éviter la détection.
 
-**Deux hypothèses :**
+Le SOC ne peut pas déterminer avec certitude l'identité derrière cette IP. Deux hypothèses sont retenues et transmises pour escalade :
 
 - Un **compte compromis** utilisé comme couverture par un attaquant externe
 - Un **insider** qui abuse de son accès légitime pour chercher des données sensibles
-
 ---
 
 ## 8. Réponse opérationnelle SOC
