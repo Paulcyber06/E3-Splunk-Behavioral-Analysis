@@ -19,7 +19,7 @@
 
 ## 1. Contexte
 
-Suite à la détection de l'activité de reconnaissance dans l'Épisode 1, le SOC approfondit l'investigation sur l'IP suspecte `87.194.216.51`, en vérifieant les requêtes 200 (Status OK) de cette IP. 
+Suite à la détection de l'activité de reconnaissance dans l'Épisode 1, le SOC approfondit l'investigation sur l'IP suspecte `87.194.216.51`, en vérifieant les requêtes 200 (Status OK). 
 
 L'objectif est de comprendre son comportement complet — pas uniquement les erreurs 404, mais l'ensemble de ses interactions avec le serveur web de Buttercup Games.
 
