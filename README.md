@@ -183,6 +183,8 @@ En activant le mode **Trellis**, on obtient une vue comparative de chaque status
 
 **Ce que cette vue apporte :**
 
+<br>
+
 | Status | Signification | Observation |
 |--------|--------------|-------------|
 | 200 | Accès réussi | 74 à 344 événements/jour — activité dominante |
@@ -194,6 +196,8 @@ En activant le mode **Trellis**, on obtient une vue comparative de chaque status
 | 500 | Erreur serveur | Pic vendredi 8 mai (~8) |
 | 503 | Service indisponible | Régulier, 2 à 14/jour |
 | 505 | Version HTTP non supportée | Pic mercredi 7 mai (~10), puis décroissance |
+
+<br>
 
 > ⚠️ **Les erreurs 404 suivent la même courbe que les erreurs 200 — la reconnaissance opportuniste s'intensifie sur les mêmes plages d'activité.
 
